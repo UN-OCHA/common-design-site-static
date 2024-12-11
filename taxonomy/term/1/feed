@@ -1,0 +1,232 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_rss' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/views/views-view-rss.html.twig' -->
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://web.brand.unocha.org/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Example term one</title>
+    <link>https://web.brand.unocha.org/</link>
+    <description></description>
+    <language>en</language>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>Sidebar First</title>
+  <link>https://web.brand.unocha.org/layouts/sidebar-first</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--title--basic.html.twig
+   ✅ field--node--title.html.twig
+   ▪️ field--node--basic.html.twig
+   ▪️ field--title.html.twig
+   ▪️ field--string.html.twig
+   ▪️ field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/stable/templates/field/field--node--title.html.twig&#039; --&gt;
+&lt;span&gt;Sidebar First&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/stable/templates/field/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--body--basic.html.twig
+   ▪️ field--node--body.html.twig
+   ▪️ field--node--basic.html.twig
+   ▪️ field--body.html.twig
+   ▪️ field--text-with-summary.html.twig
+   ✅ field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/common_design/templates/field/field.html.twig&#039; --&gt;
+
+            &lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;h2&gt;Default typography&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor leo risus, in consequat ipsum viverra eget. Vivamus non auctor nisi, et commodo diam. Sed aliquet lectus nec nulla pretium lacinia. Vestibulum maximus urna in aliquet eleifend. Nunc eu mi euismod, viverra lacus non, mollis augue. Praesent dignissim sollicitudin elit id efficitur. In ultricies est ex, in imperdiet lacus faucibus ut. Suspendisse fermentum iaculis facilisis. Cras dapibus convallis urna, et placerat elit sagittis eget.&lt;/p&gt;
+&lt;p&gt;Maecenas vulputate purus eu rutrum faucibus. Duis vehicula leo felis, at ullamcorper dolor gravida sed. Donec eget posuere arcu, quis ultricies turpis. Nunc eget risus tortor. Quisque a urna odio. Maecenas sagittis, ex nec pellentesque molestie, enim turpis sagittis lorem, vel tempus lacus purus nec purus. Fusce ut erat id ipsum egestas porttitor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Duis vehicula, ex vitae semper iaculis&lt;/li&gt;
+&lt;li&gt;justo nulla dictum neque&lt;/li&gt;
+&lt;li&gt;sit amet tristique nibh orci at dui&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nam et tellus non velit elementum condimentum vitae semper tortor. Praesent vitae porttitor ante. Donec rutrum magna sed enim gravida sagittis.&lt;/p&gt;
+&lt;h2&gt;This is heading 2 (30px)&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor leo risus, in consequat ipsum viverra eget. Vivamus non auctor nisi, et commodo diam. Sed aliquet lectus nec nulla pretium lacinia. Vestibulum maximus urna in aliquet eleifend. Nunc eu mi euismod, viverra lacus non, mollis augue. Praesent dignissim sollicitudin elit id efficitur. In ultricies est ex, in imperdiet lacus faucibus ut. Suspendisse fermentum iaculis facilisis. Cras dapibus convallis urna, et placerat elit sagittis eget.&lt;/p&gt;
+&lt;h3&gt;This is heading 3 (26px)&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor leo risus, in consequat ipsum viverra eget. Vivamus non auctor nisi, et commodo diam. Sed aliquet lectus nec nulla pretium lacinia. Vestibulum maximus urna in aliquet eleifend. Nunc eu mi euismod, viverra lacus non, mollis augue. Praesent dignissim sollicitudin elit id efficitur. In ultricies est ex, in imperdiet lacus faucibus ut. Suspendisse fermentum iaculis facilisis. Cras dapibus convallis urna, et placerat elit sagittis eget.&lt;/p&gt;
+&lt;h4&gt;This is heading 4 (22px)&lt;/h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor leo risus, in consequat ipsum viverra eget. Vivamus non auctor nisi, et commodo diam. Sed aliquet lectus nec nulla pretium lacinia. Vestibulum maximus urna in aliquet eleifend. Nunc eu mi euismod, viverra lacus non, mollis augue. Praesent dignissim sollicitudin elit id efficitur. In ultricies est ex, in imperdiet lacus faucibus ut. Suspendisse fermentum iaculis facilisis. Cras dapibus convallis urna, et placerat elit sagittis eget.&lt;/p&gt;
+&lt;h5&gt;This is heading 5 (18px)&lt;/h5&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor leo risus, in consequat ipsum viverra eget. Vivamus non auctor nisi, et commodo diam. Sed aliquet lectus nec nulla pretium lacinia. Vestibulum maximus urna in aliquet eleifend. Nunc eu mi euismod, viverra lacus non, mollis augue. Praesent dignissim sollicitudin elit id efficitur. In ultricies est ex, in imperdiet lacus faucibus ut. Suspendisse fermentum iaculis facilisis. Cras dapibus convallis urna, et placerat elit sagittis eget.&lt;/p&gt;
+&lt;h6&gt;This is heading 6 (16px)&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempor leo risus, in consequat ipsum viverra eget. Vivamus non auctor nisi, et commodo diam. Sed aliquet lectus nec nulla pretium lacinia. Vestibulum maximus urna in aliquet eleifend. Nunc eu mi euismod, viverra lacus non, mollis augue. Praesent dignissim sollicitudin elit id efficitur. In ultricies est ex, in imperdiet lacus faucibus ut. Suspendisse fermentum iaculis facilisis. Cras dapibus convallis urna, et placerat elit sagittis eget.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Maecenas vulputate purus eu rutrum faucibus. Duis vehicula leo felis, at ullamcorper dolor gravida sed. Donec eget posuere arcu, quis ultricies turpis. Nunc eget risus tortor. Quisque a urna odio. Maecenas sagittis, ex nec pellentesque molestie, enim turpis sagittis lorem, vel tempus lacus purus nec purus. Fusce ut erat id ipsum egestas porttitor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Morbi lobortis tellus lacinia est accumsan maximus et eget felis. Etiam sollicitudin sapien quis varius finibus. Suspendisse feugiat auctor sapien, suscipit accumsan ex pharetra vitae. Nulla porttitor imperdiet dictum. Aliquam purus magna, consequat ut efficitur et, tempor sit amet leo. Donec scelerisque tellus eu lectus placerat, vitae congue dui laoreet. Fusce eget velit rutrum, dapibus ipsum eu, auctor massa. Aenean tempus risus nec nisl scelerisque gravida. Phasellus neque nisl, bibendum ac velit ac, suscipit aliquam quam. Donec ut est eget nisl fermentum tincidunt et ac arcu. Nulla tempus orci vitae justo sodales, sit amet imperdiet sem vestibulum.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Example point one&lt;/li&gt;
+&lt;li&gt;Example point two&lt;/li&gt;
+&lt;li&gt;Example point three&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Morbi lobortis tellus lacinia est accumsan maximus et eget felis. Etiam sollicitudin sapien quis varius finibus. Suspendisse feugiat auctor sapien, suscipit accumsan ex pharetra vitae. Nulla porttitor imperdiet dictum. Aliquam purus magna, consequat ut efficitur et, tempor sit amet leo. Donec scelerisque tellus eu lectus placerat, vitae congue dui laoreet. Fusce eget velit rutrum, dapibus ipsum eu, auctor massa. Aenean tempus risus nec nisl scelerisque gravida. Phasellus neque nisl, bibendum ac velit ac, suscipit aliquam quam. Donec ut est eget nisl fermentum tincidunt et ac arcu. Nulla tempus orci vitae justo sodales, sit amet imperdiet sem vestibulum.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Example point one&lt;/li&gt;
+&lt;li&gt;Example point two&lt;/li&gt;
+&lt;li&gt;Example point three&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Maecenas vulputate purus eu rutrum faucibus. Duis vehicula leo felis, at ullamcorper dolor gravida sed. Donec eget posuere arcu, quis ultricies turpis. Nunc eget risus tortor. Quisque a urna odio. Maecenas sagittis, ex nec pellentesque molestie, enim turpis sagittis lorem, vel tempus lacus purus nec purus. Fusce ut erat id ipsum egestas porttitor.&lt;/p&gt;
+&lt;/div&gt;
+      
+&lt;!-- END OUTPUT from &#039;themes/contrib/common_design/templates/field/field.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--uid--basic.html.twig
+   ✅ field--node--uid.html.twig
+   ▪️ field--node--basic.html.twig
+   ▪️ field--uid.html.twig
+   ▪️ field--entity-reference.html.twig
+   ▪️ field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/stable/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/stable/templates/user/username.html.twig&#039; --&gt;
+&lt;span&gt;ihWc8n2dtByNZczp&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;themes/contrib/stable/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/stable/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--created--basic.html.twig
+   ✅ field--node--created.html.twig
+   ▪️ field--node--basic.html.twig
+   ▪️ field--created.html.twig
+   ▪️ field--created.html.twig
+   ▪️ field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/stable/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;time&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/stable/templates/field/time.html.twig&#039; --&gt;
+&lt;time datetime=&quot;2020-01-22T11:10:04+00:00&quot; title=&quot;Wednesday, January 22, 2020 - 11:10&quot;&gt;Wed, 01/22/2020 - 11:10&lt;/time&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/stable/templates/field/time.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/stable/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   ▪️ links--node.html.twig
+   ✅ links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/stable/templates/navigation/links.html.twig&#039; --&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/stable/templates/navigation/links.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-taxonomy--basic.html.twig
+   ▪️ field--node--field-taxonomy.html.twig
+   ▪️ field--node--basic.html.twig
+   ▪️ field--field-taxonomy.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/common_design/templates/field/field.html.twig&#039; --&gt;
+
+  &lt;div class=&quot;field field--name-field-taxonomy field--type-entity-reference field--label-above&quot;&gt;
+    &lt;div class=&quot;field__label&quot;&gt;Taxonomy&lt;/div&gt;
+              &lt;div class=&quot;field__item&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; hreflang=&quot;en&quot;&gt;Example term one&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/common_design/templates/field/field.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-example-boolean--basic.html.twig
+   ▪️ field--node--field-example-boolean.html.twig
+   ▪️ field--node--basic.html.twig
+   ▪️ field--field-example-boolean.html.twig
+   ▪️ field--boolean.html.twig
+   ✅ field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/common_design/templates/field/field.html.twig&#039; --&gt;
+
+  &lt;div class=&quot;field field--name-field-example-boolean field--type-boolean field--label-above&quot;&gt;
+    &lt;div class=&quot;field__label&quot;&gt;Example boolean&lt;/div&gt;
+              &lt;div class=&quot;field__item&quot;&gt;Off&lt;/div&gt;
+          &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/common_design/templates/field/field.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-example-boolean-second--basic.html.twig
+   ▪️ field--node--field-example-boolean-second.html.twig
+   ▪️ field--node--basic.html.twig
+   ▪️ field--field-example-boolean-second.html.twig
+   ▪️ field--boolean.html.twig
+   ✅ field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/contrib/common_design/templates/field/field.html.twig&#039; --&gt;
+
+  &lt;div class=&quot;field field--name-field-example-boolean-second field--type-boolean field--label-above&quot;&gt;
+    &lt;div class=&quot;field__label&quot;&gt;Another example boolean&lt;/div&gt;
+          &lt;div class=&quot;field__items&quot;&gt;
+              &lt;div class=&quot;field__item&quot;&gt;Off&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/contrib/common_design/templates/field/field.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Wed, 22 Jan 2020 11:10:04 +0000</pubDate>
+    <dc:creator>ihWc8n2dtByNZczp</dc:creator>
+    <guid isPermaLink="false">1 at https://web.brand.unocha.org</guid>
+    </item>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/views/views-view-row-rss.html.twig' -->
+
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/views/views-view-rss.html.twig' -->
+
